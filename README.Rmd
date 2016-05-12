@@ -7,10 +7,6 @@ date: March 2016
 
 This document will find differentially methylated regions and output a bed file.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(cache=TRUE)
-```
-
 ##Loading the data
 
 These data are preproceed Illumina 450K methylation data. 
